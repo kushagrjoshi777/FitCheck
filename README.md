@@ -19,3 +19,8 @@ It classifies grayscale images of clothing into 10 categories such as T-shirts, 
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+
+
+![Prediction Example](demo1.png)
+![Prediction Example](demo2.png)
+![Prediction Example](demo3.png)
