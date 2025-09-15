@@ -19,3 +19,9 @@ It classifies grayscale images of clothing into 10 categories such as T-shirts, 
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+
+
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/6eadf22f-bc2d-4f53-a799-e698a2ce2fce" />
+<img width="364" height="396" alt="image" src="https://github.com/user-attachments/assets/c3f8e4b9-c6b6-464e-848e-83f77f054cfe" />
+<img width="500" height="340" alt="Screenshot 2025-09-15 220742" src="https://github.com/user-attachments/assets/43c167f1-4649-4b67-ac39-886844a5abe8" />
+<img width="1113" height="475" alt="image" src="https://github.com/user-attachments/assets/61668aec-ea59-43f4-8a2d-b9f749fe48b0" />
